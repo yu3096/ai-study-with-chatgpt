@@ -1,13 +1,21 @@
+# FastAPI API 서버
 fastapi
 uvicorn
+
+# 임베딩 및 NLP 처리
 sentence-transformers
-chromadb
-scikit-learn
 nltk
-pydantic
-numpy
 pandas
-joblib
+numpy
 tqdm
+
+# LangChain 관련 패키지
 langchain
 langchain-community
+langchain-huggingface
+
+# 벡터 검색용 (Chroma 제거하고 FAISS로 대체)
+faiss-cpu
+
+# 문서 로딩
+pypdf
