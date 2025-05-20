@@ -9,3 +9,5 @@ numpy
 pandas
 joblib
 tqdm
+langchain
+langchain-community
