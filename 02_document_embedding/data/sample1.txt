@@ -1,0 +1,7 @@
+Q. 챗봇이란?
+A. 챗봇은 사용자의 질문에 자동으로 응답하는 인공지능 시스템입니다.
+챗봇은 자연어 처리 기술을 활용하여 사람처럼 대화할 수 있도록 설계되어 있습니다.
+
+Q. What is a chatbot?
+A. A chatbot is an artificial intelligence system that automatically responds to user questions.
+It is designed to converse like a human by utilizing natural language processing (NLP) technology.
